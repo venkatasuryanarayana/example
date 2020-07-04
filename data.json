@@ -1,0 +1,59 @@
+{"details":{
+	"name":"surya",
+	"email":"suryanarla54121@gmail.com",
+	"number":"9999999999",
+	"address":"kakinada"
+},
+"careerobjective":{
+	"info":"To become a software engineer"
+},
+"educationalqualification":
+[
+  
+	{
+	
+	"institute":"sai aditya",
+	"degree":"btech",
+	"passoutyear":"2020",
+	"percentage":"82%"
+},
+{
+	
+	"institute":"sri chaitanya",
+	"degree":"Inter",
+	"passoutyear":"2016",
+	"percentage":"96%"
+},
+{
+	
+	"institute":"narayana",
+	"degree":"10th",
+	"passoutyear":"2015",
+	"percentage":"82%"
+}
+],
+"techinicalskills":[{
+	"title":"Programming language",
+	"info":["c,c++,Java,R,Python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,Linux,ubuntu,Dos"]
+}
+],
+"achievements":[
+  {
+      "title":"Prizes",
+      "info":"Won 1st prize at Cambridge Unversity"
+  },
+  {
+    "title":"Extra Curricular Activities",
+    "info":"Participated various Techinical Events in College"
+  }
+]
+
+}
